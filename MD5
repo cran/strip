@@ -1,0 +1,16 @@
+633535488213e8342264eec5b7d9c540 *DESCRIPTION
+691a1dd5ec6e21aa063aeede92bb48e5 *LICENSE
+5dedb07796c62a4adfb974d203cf4f3e *NAMESPACE
+624d02f8c6fce620c4bacaf58d1044d6 *NEWS.md
+9617a55863e469b0717afcba81883495 *R/strip.R
+3ee1eb2864bec9873ae689c759f32e6a *R/strip.default.R
+050915250581bf311e5dbafe961e40b0 *R/strip.gam.R
+3db1a517f0756f1c649889c0057f99db *R/strip.glm.R
+c58bae47a66b2c1129a790bf96d29489 *R/strip.lm.R
+e59f780c8d0e185b6602a6c12623787d *R/strip.loess.R
+c5e497e67b940a002d8ab386efb57abe *R/strip.randomForest.R
+e70da908e1c18f9069cce23ec5eaf3ad *R/strip.train.R
+3e4fc23245590a9cfaf16a0bebf2f0cd *README.md
+6645332cddf03885d864fdab67c6d7ff *man/strip.Rd
+bd84a5a6037db1573a3ee2c37f7ee42e *tests/testthat.R
+28bc0d41dcb560e03bf8967d17ac4d5c *tests/testthat/test-strip.R
