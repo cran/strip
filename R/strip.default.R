@@ -1,5 +1,6 @@
 
 #' @export
+#' @export strip.default
 #' @rdname strip
 #' 
 strip.default <-
@@ -8,5 +9,5 @@ function(object,
          ...)
 {
   warning("no method found for 'strip', the full 'object' is returned")
-  return(object)
+  object
 }
